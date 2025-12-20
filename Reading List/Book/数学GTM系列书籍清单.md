@@ -1,9 +1,11 @@
-# GTM (Graduate Texts in Mathematics) 系列书籍分类清单
+# GTM (Graduate Texts in Mathematics) 系列书籍清单
 
 **说明：** 
 - ⭐ = 该领域的"圣经级"必读作品
 - 🔥 = 强烈推荐
-- 本清单基于Springer出版社的GTM系列（已出版300+卷）
+- [x] = 已收藏
+- [ ] = 未收藏
+- 本清单基于Springer出版社的GTM系列(已出版300+卷)
 
 ---
 
@@ -15,20 +17,20 @@
 - [x] **GTM 9** - Introduction to Lie Algebras and Representation Theory - *James E. Humphreys* ⭐
 - [x] **GTM 21** - Linear Algebraic Groups - *James E. Humphreys* 🔥
 - [x] **GTM 42** - Linear Representations of Finite Groups - *Jean-Pierre Serre* ⭐
-- [x] **GTM 62** - Fundamentals of the Theory of Groups - *Kargapolov, Merzljakov*
+- [x] **GTM 102** - Lie Groups, Lie Algebras, and Their Representations - *V. S. Varadarajan* ⭐
+- [x] **GTM 117** - Algebraic Groups and Class Fields - *Jean-Pierre Serre*
+- [x] **GTM 126** - Linear Algebraic Groups - *Armand Borel*
+- [x] **GTM 148** - An Introduction to the Theory of Groups - *Joseph J. Rotman* (4th ed.)
+- [x] **GTM 158** - Groups and Representations - *J. L. Alperin, Rowen B. Bell*
+- [x] **GTM 222** - Lie Groups, Lie Algebras, and Representations - *Brian C. Hall* (2nd ed.) ⭐
+- [ ] **GTM 62** - Fundamentals of the Theory of Groups - *Kargapolov, Merzljakov*
 - [ ] **GTM 73** - Algebra - *Thomas W. Hungerford* 🔥
 - [ ] **GTM 75** - Basic Theory of Algebraic Groups and Lie Algebras - *G. P. Hochschild*
 - [ ] **GTM 80** - A Course in the Theory of Groups - *Derek J.S. Robinson* (2nd ed.)
 - [ ] **GTM 101** - Galois Theory - *Harold M. Edwards*
-- [ ] **GTM 102** - Lie Groups, Lie Algebras, and Their Representations - *V. S. Varadarajan* ⭐
-- [ ] **GTM 117** - Algebraic Groups and Class Fields - *Jean-Pierre Serre*
-- [ ] **GTM 126** - Linear Algebraic Groups - *Armand Borel*
 - [ ] **GTM 131** - A First Course in Noncommutative Rings - *T. Y. Lam* (2nd ed.) 🔥
-- [ ] **GTM 148** - An Introduction to the Theory of Groups - *Joseph J. Rotman* (4th ed.)
-- [ ] **GTM 158** - Groups and Representations - *J. L. Alperin, Rowen B. Bell*
 - [ ] **GTM 159** - Permutation Groups - *John D. Dixon, Brian Mortimer*
 - [ ] **GTM 211** - Lie Groups - *Daniel Bump* (2nd ed.) 🔥
-- [ ] **GTM 222** - Lie Groups, Lie Algebras, and Representations - *Brian C. Hall* (2nd ed.) ⭐
 
 ### 1.2 交换代数
 
@@ -40,15 +42,15 @@
 
 ### 1.3 同调代数
 
-- [ ] **GTM 4** - A Course in Homological Algebra - *Peter Hilton, Urs Stammbach* (2nd ed.) 🔥
 - [ ] **GTM 5** - Categories for the Working Mathematician - *Saunders Mac Lane* (2nd ed.) ⭐
+- [ ] **GTM 4** - A Course in Homological Algebra - *Peter Hilton, Urs Stammbach* (2nd ed.) 🔥
 - [ ] **GTM 87** - Cohomology of Groups - *Kenneth S. Brown*
 - [ ] **GTM 195** - Basic Homological Algebra - *M. Scott Osborne*
 
 ### 1.4 域论与伽罗瓦理论
 
-- [ ] **GTM 31** - Lectures in Abstract Algebra II: Linear Algebra - *Nathan Jacobson*
 - [ ] **GTM 32** - Lectures in Abstract Algebra III: Theory of Fields and Galois Theory - *Nathan Jacobson* ⭐
+- [ ] **GTM 31** - Lectures in Abstract Algebra II: Linear Algebra - *Nathan Jacobson*
 - [ ] **GTM 158** - Field Theory - *Steven Roman* (2nd ed.)
 - [ ] **GTM 167** - Field and Galois Theory - *Patrick Morandi*
 - [ ] **GTM 204** - Galois Theory - *Jean-Pierre Escofier*
@@ -59,13 +61,13 @@
 
 ### 2.1 代数数论
 
-- [ ] **GTM 50** - Fermat's Last Theorem - *Harold M. Edwards* 🔥
 - [ ] **GTM 74** - Multiplicative Number Theory - *Harold Davenport, Hugh Montgomery* (3rd ed.) ⭐
-- [ ] **GTM 77** - Lectures on the Theory of Algebraic Numbers - *E. T. Hecke*
 - [ ] **GTM 84** - A Classical Introduction to Modern Number Theory - *Kenneth Ireland, Michael Rosen* (2nd ed.) ⭐
 - [ ] **GTM 110** - Algebraic Number Theory - *Serge Lang* (2nd ed.) ⭐
-- [ ] **GTM 121** - Cyclotomic Fields I and II - *Serge Lang* (Combined 2nd ed.)
+- [ ] **GTM 50** - Fermat's Last Theorem - *Harold M. Edwards* 🔥
 - [ ] **GTM 182** - Introduction to Cyclotomic Fields - *Lawrence C. Washington* (2nd ed.) 🔥
+- [ ] **GTM 77** - Lectures on the Theory of Algebraic Numbers - *E. T. Hecke*
+- [ ] **GTM 121** - Cyclotomic Fields I and II - *Serge Lang* (Combined 2nd ed.)
 
 ### 2.2 解析数论
 
@@ -76,8 +78,8 @@
 
 ### 2.3 椭圆曲线与模形式
 
-- [ ] **GTM 96** - Introduction to Elliptic Curves and Modular Forms - *Neal I. Koblitz* (2nd ed.) 🔥
 - [ ] **GTM 106** - The Arithmetic of Elliptic Curves - *Joseph H. Silverman* (2nd ed.) ⭐
+- [ ] **GTM 96** - Introduction to Elliptic Curves and Modular Forms - *Neal I. Koblitz* (2nd ed.) 🔥
 - [ ] **GTM 111** - Elliptic Curves - *Dale Husemöller* (2nd ed.)
 - [ ] **GTM 151** - Advanced Topics in the Arithmetic of Elliptic Curves - *Joseph H. Silverman*
 - [ ] **GTM 218** - A First Course in Modular Forms - *Fred Diamond, J. Shurman*
@@ -93,16 +95,16 @@
 
 ### 3.1 点集拓扑
 
-- [ ] **GTM 27** - General Topology - *John L. Kelley* ⭐
-- [ ] **GTM 202** - Introduction to Topological Manifolds - *John M. Lee* (2nd ed.) 🔥
+- [x] **GTM 27** - General Topology - *John L. Kelley* ⭐
+- [x] **GTM 202** - Introduction to Topological Manifolds - *John M. Lee* (2nd ed.) 🔥
 
 ### 3.2 代数拓扑
 
-- [ ] **GTM 56** - Algebraic Topology: An Introduction - *William S. Massey*
-- [ ] **GTM 61** - Elements of Homotopy Theory - *George W. Whitehead* ⭐
-- [ ] **GTM 70** - Singular Homology Theory - *William S. Massey*
-- [ ] **GTM 72** - Classical Topology and Combinatorial Group Theory - *John Stillwell* (2nd ed.) 🔥
+- [x] **GTM 61** - Elements of Homotopy Theory - *George W. Whitehead* ⭐
+- [x] **GTM 72** - Classical Topology and Combinatorial Group Theory - *John Stillwell* (2nd ed.) 🔥
+- [x] **GTM 56** - Algebraic Topology: An Introduction - *William S. Massey*
 - [ ] **GTM 82** - Differential Forms in Algebraic Topology - *Raoul Bott, Loring W. Tu* ⭐
+- [ ] **GTM 70** - Singular Homology Theory - *William S. Massey*
 - [ ] **GTM 119** - An Introduction to Algebraic Topology - *Joseph J. Rotman*
 - [ ] **GTM 127** - A Basic Course in Algebraic Topology - *William S. Massey*
 - [ ] **GTM 153** - Algebraic Topology - *William Fulton*
@@ -126,22 +128,22 @@
 ### 4.1 代数几何
 
 - [ ] **GTM 52** - Algebraic Geometry - *Robin Hartshorne* ⭐
-- [ ] **GTM 76** - Algebraic Geometry: An Introduction to Birational Geometry - *Shigeru Iitaka*
 - [ ] **GTM 133** - Algebraic Geometry - *Joe Harris* 🔥
 - [ ] **GTM 197** - The Geometry of Schemes - *David Eisenbud, Joe Harris* 🔥
+- [ ] **GTM 76** - Algebraic Geometry: An Introduction to Birational Geometry - *Shigeru Iitaka*
 - [ ] **GTM 219** - The Geometry of Syzygies - *David Eisenbud*
 
 ### 4.2 微分几何
 
-- [ ] **GTM 51** - A Course in Differential Geometry - *William Klingenberg*
 - [ ] **GTM 82** - Differential Forms in Algebraic Topology - *Raoul Bott, Loring W. Tu* ⭐
-- [ ] **GTM 93** - Foundations of Differentiable Manifolds and Lie Groups - *Frank W. Warner* 🔥
-- [ ] **GTM 115** - Differential Geometry: Manifolds, Curves and Surfaces - *Marcel Berger, Bernard Gostiaux*
 - [ ] **GTM 139** - Topology and Geometry - *Glen E. Bredon* ⭐
-- [ ] **GTM 171** - Riemannian Geometry - *Peter Petersen* (3rd ed.) 🔥
 - [ ] **GTM 191** - Introduction to Riemannian Manifolds - *John M. Lee* (2nd ed.) ⭐
 - [ ] **GTM 220** - Introduction to Smooth Manifolds - *John M. Lee* (2nd ed.) ⭐
+- [ ] **GTM 93** - Foundations of Differentiable Manifolds and Lie Groups - *Frank W. Warner* 🔥
+- [ ] **GTM 171** - Riemannian Geometry - *Peter Petersen* (3rd ed.) 🔥
 - [ ] **GTM 275** - Differential Geometry: Connections, Curvature, and Characteristic Classes - *Loring W. Tu* 🔥
+- [ ] **GTM 51** - A Course in Differential Geometry - *William Klingenberg*
+- [ ] **GTM 115** - Differential Geometry: Manifolds, Curves and Surfaces - *Marcel Berger, Bernard Gostiaux*
 
 ### 4.3 黎曼几何与复几何
 
@@ -161,20 +163,20 @@
 
 ### 5.1 实分析
 
-- [ ] **GTM 2** - Measure and Category - *John C. Oxtoby* (2nd ed.)
 - [ ] **GTM 18** - Measure Theory - *Paul R. Halmos* ⭐
 - [ ] **GTM 25** - Real and Abstract Analysis - *Edwin Hewitt, Karl Stromberg* ⭐
+- [ ] **GTM 284** - Measure, Integration & Real Analysis - *Sheldon Axler* ⭐
+- [ ] **GTM 2** - Measure and Category - *John C. Oxtoby* (2nd ed.)
 - [ ] **GTM 120** - Weakly Differentiable Functions - *William P. Ziemer*
 - [ ] **GTM 143** - Measure Theory - *J. L. Doob*
 - [ ] **GTM 278** - Modern Real Analysis - *William P. Ziemer* (2nd ed.)
 - [ ] **GTM 282** - Introduction to Real Analysis - *Christopher Heil*
-- [ ] **GTM 284** - Measure, Integration & Real Analysis - *Sheldon Axler* ⭐
 
 ### 5.2 复分析
 
 - [ ] **GTM 11** - Functions of One Complex Variable I - *John B. Conway* (2nd ed.) ⭐
-- [ ] **GTM 38** - Several Complex Variables - *H. Grauert, K. Fritzsche*
 - [ ] **GTM 103** - Complex Analysis - *Serge Lang* (4th ed.) 🔥
+- [ ] **GTM 38** - Several Complex Variables - *H. Grauert, K. Fritzsche*
 - [ ] **GTM 108** - Holomorphic Functions and Integral Representations in Several Complex Variables - *R. Michael Range*
 - [ ] **GTM 122** - Theory of Complex Functions - *Reinhold Remmert*
 - [ ] **GTM 157** - Functions of One Complex Variable II - *John B. Conway*
@@ -183,83 +185,46 @@
 - [ ] **GTM 245** - Complex Analysis: In the Spirit of Lipman Bers - *Rubí E. Rodríguez, Irwin Kra, Jane P. Gilman* (2nd ed.)
 - [ ] **GTM 287** - Explorations in Complex Functions - *Richard Beals, Roderick S. C. Wong*
 
-### 5.3 调和分析与傅里叶分析
+### 5.3 泛函分析
 
-- [ ] **GTM 64** - Fourier Series Vol. I - *R. E. Edwards* (2nd ed.)
-- [ ] **GTM 85** - Fourier Series Vol. II - *R. E. Edwards* (2nd ed.)
-- [ ] **GTM 137** - Harmonic Function Theory - *Sheldon Axler, Paul Bourdon, Wade Ramey* (2nd ed.)
-- [ ] **GTM 181** - Fourier Analysis on Number Fields - *Dinakar Ramakrishnan, Robert J. Valenza*
-- [ ] **GTM 223** - Fourier Analysis and its Applications - *Anders Vretblad*
-- [ ] **GTM 249** - Classical Fourier Analysis - *Loukas Grafakos* (3rd ed.) ⭐
-- [ ] **GTM 250** - Modern Fourier Analysis - *Loukas Grafakos* (3rd ed.) ⭐
-- [ ] **GTM 302** - Fundamentals of Fourier Analysis - *Loukas Grafakos*
+- [ ] **GTM 45** - Introduction to Functional Analysis - *Reinhold Meise, Dietmar Vogt*
+- [ ] **GTM 55** - Measure Theory and Fine Properties of Functions - *Lawrence C. Evans, Ronald F. Gariepy* (Revised ed.)
+- [ ] **GTM 67** - Introduction to Operator Theory I - *Arlen Brown, Carl Pearcy*
+- [ ] **GTM 92** - Representations of Compact Lie Groups - *Theodor Bröcker, Tammo tom Dieck*
+- [ ] **GTM 118** - A Course in Functional Analysis - *John B. Conway* (2nd ed.)
 
-### 5.4 测度与积分
+### 5.4 调和分析
 
-- [ ] **GTM 116** - Measure and Integral Vol. 1 - *John L. Kelley, T.P. Srinivasan*
-- [ ] **GTM 156** - Integration and Probability - *Paul Malliavin*
+- [ ] **GTM 43** - A Course in Abstract Harmonic Analysis - *Gerald B. Folland* (2nd ed.)
+- [ ] **GTM 112** - Real and Functional Analysis - *Serge Lang* (3rd ed.)
+- [ ] **GTM 142** - A Course in Abstract Harmonic Analysis - *Gerald B. Folland*
+
+### 5.5 其他分析专题
+
+- [ ] **GTM 19** - Ordinary Differential Equations - *Jack K. Hale*
+- [ ] **GTM 35** - Introduction to Fourier Analysis on Euclidean Spaces - *Elias M. Stein, Guido Weiss*
+- [ ] **GTM 44** - Elementary Algebraic Geometry - *Keith Kendig*
+- [ ] **GTM 59** - Probability - *Albert N. Shiryaev* (2nd ed.)
+- [ ] **GTM 95** - Probability - *A. N. Shiryayev*
 
 ---
 
-## 6. 泛函分析 (Functional Analysis)
+## 6. 流形与几何分析 (Manifolds and Geometric Analysis)
 
-### 6.1 泛函分析基础
-
-- [ ] **GTM 3** - Topological Vector Spaces - *H. H. Schaefer, M. P. Wolff* (2nd ed.)
-- [ ] **GTM 15** - Lectures in Functional Analysis and Operator Theory - *Sterling K. Berberian*
-- [ ] **GTM 19** - A Hilbert Space Problem Book - *Paul R. Halmos* (2nd ed.) 🔥
-- [ ] **GTM 24** - Geometric Functional Analysis and Its Applications - *Richard B. Holmes*
-- [ ] **GTM 36** - Linear Topological Spaces - *John L. Kelley, Isaac Namioka*
-- [ ] **GTM 55** - Introduction to Operator Theory I - *Arlen Brown, Carl Pearcy*
-- [ ] **GTM 94** - A Course in Functional Analysis - *John B. Conway* (2nd ed.) ⭐
-- [ ] **GTM 118** - Analysis Now - *Gert K. Pedersen*
-- [ ] **GTM 142** - Real and Functional Analysis - *Serge Lang* (3rd ed.)
-- [ ] **GTM 154** - An Introduction to Analysis - *Arlen Brown, Carl Pearcy*
-- [ ] **GTM 183** - An Introduction to Banach Space Theory - *Robert E. Megginson*
-- [ ] **GTM 192** - Elements of Functional Analysis - *Francis Hirsch, Gilles Lacombe*
-- [ ] **GTM 227** - Topics in Banach Space Theory - *Fernando Albiac, Nigel J. Kalton* (2nd ed.)
-- [ ] **GTM 252** - Elementary Functional Analysis - *Barbara D. MacCluer*
-- [ ] **GTM 264** - Locally Convex Spaces - *M Scott Osborne*
-- [ ] **GTM 276** - Functional Analysis, Spectral Theory, and Applications - *Manfred Einsiedler, Thomas Ward*
-
-### 6.2 算子理论
-
-- [ ] **GTM 39** - An Invitation to C*-Algebras - *William Arveson*
-- [ ] **GTM 179** - Banach Algebra Techniques in Operator Theory - *Ronald G. Douglas* (2nd ed.)
-- [ ] **GTM 208** - A Short Course on Spectral Theory - *William Arveson*
-- [ ] **GTM 253** - An Introduction to Operators on the Hardy-Hilbert Space - *Ruben A. Martinez-Avendano, Peter Rosenthal*
-- [ ] **GTM 259** - Unbounded Self-adjoint Operators on Hilbert Space - *Konrad Schmüdgen*
-- [ ] **GTM 277** - The Moment Problem - *Konrad Schmüdgen*
-- [ ] **GTM 285** - An Invitation to Unbounded Representations of *-Algebras on Hilbert Space - *Konrad Schmüdgen*
+- [ ] **GTM 94** - Lectures on the h-Cobordism Theorem - *John Milnor*
+- [ ] **GTM 116** - Infinite Dimensional Lie Algebras - *Victor G. Kac* (3rd ed.)
+- [ ] **GTM 136** - Differential Geometry: Cartan's Generalization of Klein's Erlangen Program - *R. W. Sharpe*
+- [ ] **GTM 155** - Characteristic Classes - *John W. Milnor, James D. Stasheff*
+- [ ] **GTM 170** - Tensor Geometry - *C. T. J. Dodson, T. Poston* (2nd ed.)
 
 ---
 
 ## 7. 概率论与随机过程 (Probability and Stochastic Processes)
 
-### 7.1 概率论
-
-- [ ] **GTM 45** - Probability Theory I - *M. Loève* (4th ed.) ⭐
-- [ ] **GTM 46** - Probability Theory II - *M. Loève* (4th ed.) ⭐
-- [ ] **GTM 95** - Probability-1, Probability-2 - *Albert N. Shiryaev* (3rd ed.)
-- [ ] **GTM 258** - Probability and Stochastics - *Erhan Cinlar*
-- [ ] **GTM 292** - Measure Theory, Probability, and Stochastic Processes - *Jean-François Le Gall*
-
-### 7.2 随机过程
-
-- [ ] **GTM 17** - Random Processes - *Murray Rosenblatt*
-- [ ] **GTM 34** - Principles of Random Walk - *Frank Spitzer* (2nd ed.)
-- [ ] **GTM 40** - Denumerable Markov Chains - *John G. Kemeny, J. Laurie Snell, Anthony W. Knapp, D.S. Griffeath* (2nd ed.)
-- [ ] **GTM 113** - Brownian Motion and Stochastic Calculus - *Ioannis Karatzas, Steven Shreve* (2nd ed.) ⭐
-- [ ] **GTM 220** - An Introduction to Markov Processes - *Daniel W. Stroock* (2nd ed.)
-- [ ] **GTM 274** - Brownian Motion, Martingales, and Stochastic Calculus - *Jean-François Le Gall*
-- [ ] **GTM 290** - Random Walk, Brownian Motion and Martingales - *Rabi Bhattacharya, Edward C. Waymire*
-- [ ] **GTM 291** - Stationary Processes and Discrete Parameter Markov Processes - *Rabi Bhattacharya, Edward C. Waymire*
-- [ ] **GTM 294** - Continuous Parameter Markov Processes and Stochastic Differential Equations - *Rabi Bhattacharya, Edward C. Waymire*
-
-### 7.3 遍历理论
-
-- [ ] **GTM 79** - An Introduction to Ergodic Theory - *Peter Walters* 🔥
-- [ ] **GTM 259** - Ergodic Theory with a view towards Number Theory - *Manfred Einsiedler, Thomas Ward* ⭐
+- [ ] **GTM 45** - Probability Theory - *Achim Klenke*
+- [ ] **GTM 113** - Brownian Motion and Stochastic Calculus - *Ioannis Karatzas, Steven E. Shreve* (2nd ed.)
+- [ ] **GTM 261** - Introduction to Stochastic Processes - *Gregory F. Lawler* (2nd ed.)
+- [ ] **GTM 274** - Stochastic Processes - *Richard F. Bass*
 - [ ] **GTM 288** - Ergodic Dynamics: From Basic Theory to Applications - *Jane M. Hawkins*
 
 ---
@@ -278,9 +243,9 @@
 
 ### 8.3 数学物理
 
-- [ ] **GTM 48** - General Relativity for Mathematicians - *R. K. Sachs, H. Wu*
 - [ ] **GTM 60** - Mathematical Methods of Classical Mechanics - *V. I. Arnold* (2nd ed.) ⭐
 - [ ] **GTM 107** - Applications of Lie Groups to Differential Equations - *Peter J. Olver* (2nd ed.) 🔥
+- [ ] **GTM 48** - General Relativity for Mathematicians - *R. K. Sachs, H. Wu*
 - [ ] **GTM 267** - Quantum Theory for Mathematicians - *Brian C. Hall*
 
 ---
@@ -294,11 +259,11 @@
 
 ### 9.2 数理逻辑
 
+- [ ] **GTM 53** - A Course in Mathematical Logic for Mathematicians - *Yu. I. Manin, Boris Zilber* (2nd ed.) 🔥
+- [ ] **GTM 289** - Mathematical Logic - *Heinz-Dieter Ebbinghaus, Jörg Flum, Wolfgang Thomas* (3rd ed.)
 - [ ] **GTM 22** - An Algebraic Introduction to Mathematical Logic - *Donald W. Barnes, John M. Mack*
 - [ ] **GTM 37** - Mathematical Logic - *J. Donald Monk*
-- [ ] **GTM 53** - A Course in Mathematical Logic for Mathematicians - *Yu. I. Manin, Boris Zilber* (2nd ed.) 🔥
 - [ ] **GTM 217** - Model Theory: An Introduction - *David Marker*
-- [ ] **GTM 289** - Mathematical Logic - *Heinz-Dieter Ebbinghaus, Jörg Flum, Wolfgang Thomas* (3rd ed.)
 - [ ] **GTM 301** - An Invitation to Mathematical Logic - *David Marker*
 
 ### 9.3 模型论与描述集合论
@@ -316,12 +281,12 @@
 
 ### 10.1 图论
 
-- [ ] **GTM 54** - Combinatorics with Emphasis on the Theory of Graphs - *Mark E. Watkins, Jack E. Graver*
-- [ ] **GTM 63** - Graph Theory - *Béla Bollobás*
 - [ ] **GTM 173** - Graph Theory - *Reinhard Diestel* (6th ed.) ⭐
-- [ ] **GTM 184** - Modern Graph Theory - *Béla Bollobás*
 - [ ] **GTM 207** - Algebraic Graph Theory - *Chris Godsil, Gordon Royle* 🔥
+- [ ] **GTM 63** - Graph Theory - *Béla Bollobás*
+- [ ] **GTM 184** - Modern Graph Theory - *Béla Bollobás*
 - [ ] **GTM 244** - Graph Theory - *Adrian Bondy, U.S.R. Murty*
+- [ ] **GTM 54** - Combinatorics with Emphasis on the Theory of Graphs - *Mark E. Watkins, Jack E. Graver*
 
 ### 10.2 代数组合学
 
@@ -436,30 +401,12 @@
 
 ---
 
-## 附录：推荐阅读顺序
-
-### 对于初学者（研一）
-1. GTM 73 (Hungerford - Algebra)
-2. GTM 27 (Kelley - General Topology)
-3. GTM 11 (Conway - Complex Analysis I)
-4. GTM 18 (Halmos - Measure Theory)
-
-### 对于进阶学习（研二）
-1. GTM 52 (Hartshorne - Algebraic Geometry)
-2. GTM 82 (Bott & Tu - Differential Forms in Algebraic Topology)
-3. GTM 150 (Eisenbud - Commutative Algebra)
-4. GTM 102 (Varadarajan - Lie Groups)
-
-### 对于专业研究（研三及以上）
-根据研究方向选择相应的"圣经级"书籍深入学习
-
----
-
 **备注：**
-- 本清单涵盖了GTM系列的主要书籍（约300+卷）
+- 本清单涵盖了GTM系列的主要书籍(约300+卷)
 - 标记为⭐的书籍是该领域公认的经典必读
 - 标记为🔥的书籍是强烈推荐的优秀教材
+- [x]表示已收藏,[  ]表示未收藏
 - 建议根据个人研究方向和兴趣有选择地阅读
-- 部分书籍有多个版本，推荐阅读最新版
+- 部分书籍有多个版本,推荐阅读最新版
 
 **最后更新：** 2025年12月
