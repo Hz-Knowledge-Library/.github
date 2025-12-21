@@ -24,33 +24,33 @@
 - [x] **GTM 158** - Groups and Representations - *J. L. Alperin, Rowen B. Bell*
 - [x] **GTM 222** - Lie Groups, Lie Algebras, and Representations - *Brian C. Hall* (2nd ed.) ⭐
 - [ ] **GTM 62** - Fundamentals of the Theory of Groups - *Kargapolov, Merzljakov*
-- [ ] **GTM 73** - Algebra - *Thomas W. Hungerford* 🔥
+- [x] **GTM 73** - Algebra - *Thomas W. Hungerford* 🔥
 - [ ] **GTM 75** - Basic Theory of Algebraic Groups and Lie Algebras - *G. P. Hochschild*
 - [ ] **GTM 80** - A Course in the Theory of Groups - *Derek J.S. Robinson* (2nd ed.)
 - [ ] **GTM 101** - Galois Theory - *Harold M. Edwards*
 - [ ] **GTM 131** - A First Course in Noncommutative Rings - *T. Y. Lam* (2nd ed.) 🔥
-- [ ] **GTM 159** - Permutation Groups - *John D. Dixon, Brian Mortimer*
-- [ ] **GTM 211** - Lie Groups - *Daniel Bump* (2nd ed.) 🔥
+- [x] **GTM 159** - Permutation Groups - *John D. Dixon, Brian Mortimer*
+- [x] **GTM 211** - Lie Groups - *Daniel Bump* (2nd ed.) 🔥
 
 ### 1.2 交换代数
 
-- [ ] **GTM 28** - Commutative Algebra Vol. I - *Oscar Zariski, Pierre Samuel* ⭐
-- [ ] **GTM 29** - Commutative Algebra Vol. II - *Oscar Zariski, Pierre Samuel* ⭐
+- [x] **GTM 28** - Commutative Algebra Vol. I - *Oscar Zariski, Pierre Samuel* ⭐
+- [x] **GTM 29** - Commutative Algebra Vol. II - *Oscar Zariski, Pierre Samuel* ⭐
 - [ ] **GTM 150** - Commutative Algebra with a View Toward Algebraic Geometry - *David Eisenbud* ⭐
 - [ ] **GTM 217** - Combinatorial Commutative Algebra - *Ezra Miller, Bernd Sturmfels*
 - [ ] **GTM 237** - A Course in Commutative Algebra - *Gregor Kemper*
 
 ### 1.3 同调代数
 
-- [ ] **GTM 5** - Categories for the Working Mathematician - *Saunders Mac Lane* (2nd ed.) ⭐
+- [x] **GTM 5** - Categories for the Working Mathematician - *Saunders Mac Lane* (2nd ed.) ⭐
 - [ ] **GTM 4** - A Course in Homological Algebra - *Peter Hilton, Urs Stammbach* (2nd ed.) 🔥
-- [ ] **GTM 87** - Cohomology of Groups - *Kenneth S. Brown*
+- [x] **GTM 87** - Cohomology of Groups - *Kenneth S. Brown*
 - [ ] **GTM 195** - Basic Homological Algebra - *M. Scott Osborne*
 
 ### 1.4 域论与伽罗瓦理论
 
-- [ ] **GTM 32** - Lectures in Abstract Algebra III: Theory of Fields and Galois Theory - *Nathan Jacobson* ⭐
-- [ ] **GTM 31** - Lectures in Abstract Algebra II: Linear Algebra - *Nathan Jacobson*
+- [x] **GTM 32** - Lectures in Abstract Algebra III: Theory of Fields and Galois Theory - *Nathan Jacobson* ⭐
+- [x] **GTM 31** - Lectures in Abstract Algebra II: Linear Algebra - *Nathan Jacobson*
 - [ ] **GTM 158** - Field Theory - *Steven Roman* (2nd ed.)
 - [ ] **GTM 167** - Field and Galois Theory - *Patrick Morandi*
 - [ ] **GTM 204** - Galois Theory - *Jean-Pierre Escofier*
@@ -61,7 +61,7 @@
 
 ### 2.1 代数数论
 
-- [ ] **GTM 74** - Multiplicative Number Theory - *Harold Davenport, Hugh Montgomery* (3rd ed.) ⭐
+- [x] **GTM 74** - Multiplicative Number Theory - *Harold Davenport, Hugh Montgomery* (3rd ed.) ⭐
 - [ ] **GTM 84** - A Classical Introduction to Modern Number Theory - *Kenneth Ireland, Michael Rosen* (2nd ed.) ⭐
 - [ ] **GTM 110** - Algebraic Number Theory - *Serge Lang* (2nd ed.) ⭐
 - [ ] **GTM 50** - Fermat's Last Theorem - *Harold M. Edwards* 🔥
