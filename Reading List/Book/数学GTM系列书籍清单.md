@@ -26,9 +26,9 @@
 - [ ] **GTM 62** - Fundamentals of the Theory of Groups - *Kargapolov, Merzljakov*
 - [x] **GTM 73** - Algebra - *Thomas W. Hungerford* 🔥
 - [ ] **GTM 75** - Basic Theory of Algebraic Groups and Lie Algebras - *G. P. Hochschild*
-- [ ] **GTM 80** - A Course in the Theory of Groups - *Derek J.S. Robinson* (2nd ed.)
-- [ ] **GTM 101** - Galois Theory - *Harold M. Edwards*
-- [ ] **GTM 131** - A First Course in Noncommutative Rings - *T. Y. Lam* (2nd ed.) 🔥
+- [x] **GTM 80** - A Course in the Theory of Groups - *Derek J.S. Robinson* (2nd ed.)
+- [x] **GTM 101** - Galois Theory - *Harold M. Edwards*
+- [x] **GTM 131** - A First Course in Noncommutative Rings - *T. Y. Lam* (2nd ed.) 🔥
 - [x] **GTM 159** - Permutation Groups - *John D. Dixon, Brian Mortimer*
 - [x] **GTM 211** - Lie Groups - *Daniel Bump* (2nd ed.) 🔥
 
@@ -36,23 +36,23 @@
 
 - [x] **GTM 28** - Commutative Algebra Vol. I - *Oscar Zariski, Pierre Samuel* ⭐
 - [x] **GTM 29** - Commutative Algebra Vol. II - *Oscar Zariski, Pierre Samuel* ⭐
-- [ ] **GTM 150** - Commutative Algebra with a View Toward Algebraic Geometry - *David Eisenbud* ⭐
-- [ ] **GTM 217** - Combinatorial Commutative Algebra - *Ezra Miller, Bernd Sturmfels*
-- [ ] **GTM 237** - A Course in Commutative Algebra - *Gregor Kemper*
+- [x] **GTM 150** - Commutative Algebra with a View Toward Algebraic Geometry - *David Eisenbud* ⭐
+- [x] **GTM 217** - Combinatorial Commutative Algebra - *Ezra Miller, Bernd Sturmfels*
+- [x] **GTM 237** - A Course in Commutative Algebra - *Gregor Kemper*
 
 ### 1.3 同调代数
 
 - [x] **GTM 5** - Categories for the Working Mathematician - *Saunders Mac Lane* (2nd ed.) ⭐
-- [ ] **GTM 4** - A Course in Homological Algebra - *Peter Hilton, Urs Stammbach* (2nd ed.) 🔥
+- [x] **GTM 4** - A Course in Homological Algebra - *Peter Hilton, Urs Stammbach* (2nd ed.) 🔥
 - [x] **GTM 87** - Cohomology of Groups - *Kenneth S. Brown*
-- [ ] **GTM 195** - Basic Homological Algebra - *M. Scott Osborne*
+- [x] **GTM 195** - Basic Homological Algebra - *M. Scott Osborne*
 
 ### 1.4 域论与伽罗瓦理论
 
 - [x] **GTM 32** - Lectures in Abstract Algebra III: Theory of Fields and Galois Theory - *Nathan Jacobson* ⭐
 - [x] **GTM 31** - Lectures in Abstract Algebra II: Linear Algebra - *Nathan Jacobson*
-- [ ] **GTM 158** - Field Theory - *Steven Roman* (2nd ed.)
-- [ ] **GTM 167** - Field and Galois Theory - *Patrick Morandi*
+- [x] **GTM 158** - Field Theory - *Steven Roman* (2nd ed.)
+- [x] **GTM 167** - Field and Galois Theory - *Patrick Morandi*
 - [ ] **GTM 204** - Galois Theory - *Jean-Pierre Escofier*
 
 ---
@@ -62,24 +62,24 @@
 ### 2.1 代数数论
 
 - [x] **GTM 74** - Multiplicative Number Theory - *Harold Davenport, Hugh Montgomery* (3rd ed.) ⭐
-- [ ] **GTM 84** - A Classical Introduction to Modern Number Theory - *Kenneth Ireland, Michael Rosen* (2nd ed.) ⭐
-- [ ] **GTM 110** - Algebraic Number Theory - *Serge Lang* (2nd ed.) ⭐
-- [ ] **GTM 50** - Fermat's Last Theorem - *Harold M. Edwards* 🔥
-- [ ] **GTM 182** - Introduction to Cyclotomic Fields - *Lawrence C. Washington* (2nd ed.) 🔥
+- [x] **GTM 84** - A Classical Introduction to Modern Number Theory - *Kenneth Ireland, Michael Rosen* (2nd ed.) ⭐
+- [x] **GTM 110** - Algebraic Number Theory - *Serge Lang* (2nd ed.) ⭐
+- [x] **GTM 50** - Fermat's Last Theorem - *Harold M. Edwards* 🔥
+- [x] **GTM 182** - Introduction to Cyclotomic Fields - *Lawrence C. Washington* (2nd ed.) 🔥
 - [ ] **GTM 77** - Lectures on the Theory of Algebraic Numbers - *E. T. Hecke*
-- [ ] **GTM 121** - Cyclotomic Fields I and II - *Serge Lang* (Combined 2nd ed.)
+- [x] **GTM 121** - Cyclotomic Fields I and II - *Serge Lang* (Combined 2nd ed.)
 
 ### 2.2 解析数论
 
-- [ ] **GTM 41** - Modular Functions and Dirichlet Series in Number Theory - *Tom M. Apostol* (2nd ed.) 🔥
-- [ ] **GTM 177** - Analytic Number Theory - *Donald J. Newman*
-- [ ] **GTM 239** - Number Theory Vol I: Tools and Diophantine Equations - *Henri Cohen*
-- [ ] **GTM 240** - Number Theory Vol II: Analytic and Modern Tools - *Henri Cohen*
+- [x] **GTM 41** - Modular Functions and Dirichlet Series in Number Theory - *Tom M. Apostol* (2nd ed.) 🔥
+- [x] **GTM 177** - Analytic Number Theory - *Donald J. Newman*
+- [x] **GTM 239** - Number Theory Vol I: Tools and Diophantine Equations - *Henri Cohen*
+- [x] **GTM 240** - Number Theory Vol II: Analytic and Modern Tools - *Henri Cohen*
 
 ### 2.3 椭圆曲线与模形式
 
-- [ ] **GTM 106** - The Arithmetic of Elliptic Curves - *Joseph H. Silverman* (2nd ed.) ⭐
-- [ ] **GTM 96** - Introduction to Elliptic Curves and Modular Forms - *Neal I. Koblitz* (2nd ed.) 🔥
+- [x] **GTM 106** - The Arithmetic of Elliptic Curves - *Joseph H. Silverman* (2nd ed.) ⭐
+- [x] **GTM 96** - Introduction to Elliptic Curves and Modular Forms - *Neal I. Koblitz* (2nd ed.) 🔥
 - [ ] **GTM 111** - Elliptic Curves - *Dale Husemöller* (2nd ed.)
 - [ ] **GTM 151** - Advanced Topics in the Arithmetic of Elliptic Curves - *Joseph H. Silverman*
 - [ ] **GTM 218** - A First Course in Modular Forms - *Fred Diamond, J. Shurman*
