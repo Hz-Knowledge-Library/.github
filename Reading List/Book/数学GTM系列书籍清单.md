@@ -80,14 +80,14 @@
 
 - [x] **GTM 106** - The Arithmetic of Elliptic Curves - *Joseph H. Silverman* (2nd ed.) ⭐
 - [x] **GTM 96** - Introduction to Elliptic Curves and Modular Forms - *Neal I. Koblitz* (2nd ed.) 🔥
-- [ ] **GTM 111** - Elliptic Curves - *Dale Husemöller* (2nd ed.)
-- [ ] **GTM 151** - Advanced Topics in the Arithmetic of Elliptic Curves - *Joseph H. Silverman*
-- [ ] **GTM 218** - A First Course in Modular Forms - *Fred Diamond, J. Shurman*
+- [x] **GTM 111** - Elliptic Curves - *Dale Husemöller* (2nd ed.)
+- [x] **GTM 151** - Advanced Topics in the Arithmetic of Elliptic Curves - *Joseph H. Silverman*
+- [x] **GTM 218** - A First Course in Modular Forms - *Fred Diamond, J. Shurman*
 
 ### 2.4 计算数论
 
-- [ ] **GTM 138** - A Course in Computational Algebraic Number Theory - *Henri Cohen* 🔥
-- [ ] **GTM 193** - Advanced Topics in Computational Number Theory - *Henri Cohen*
+- [x] **GTM 138** - A Course in Computational Algebraic Number Theory - *Henri Cohen* 🔥
+- [x] **GTM 193** - Advanced Topics in Computational Number Theory - *Henri Cohen*
 
 ---
 
@@ -104,22 +104,22 @@
 - [x] **GTM 72** - Classical Topology and Combinatorial Group Theory - *John Stillwell* (2nd ed.) 🔥
 - [x] **GTM 56** - Algebraic Topology: An Introduction - *William S. Massey*
 - [ ] **GTM 82** - Differential Forms in Algebraic Topology - *Raoul Bott, Loring W. Tu* ⭐
-- [ ] **GTM 70** - Singular Homology Theory - *William S. Massey*
-- [ ] **GTM 119** - An Introduction to Algebraic Topology - *Joseph J. Rotman*
-- [ ] **GTM 127** - A Basic Course in Algebraic Topology - *William S. Massey*
-- [ ] **GTM 153** - Algebraic Topology - *William Fulton*
-- [ ] **GTM 205** - Rational Homotopy Theory - *Yves Félix, Stephen Halperin, Jean-Claude Thomas*
+- [x] **GTM 70** - Singular Homology Theory - *William S. Massey*
+- [x] **GTM 119** - An Introduction to Algebraic Topology - *Joseph J. Rotman*
+- [x] **GTM 127** - A Basic Course in Algebraic Topology - *William S. Massey*
+- [x] **GTM 153** - Algebraic Topology - *William Fulton*
+- [x] **GTM 205** - Rational Homotopy Theory - *Yves Félix, Stephen Halperin, Jean-Claude Thomas*
 - [ ] **GTM 243** - Topological Methods in Group Theory - *Ross Geoghegan*
-- [ ] **GTM 261** - Fundamentals of Algebraic Topology - *Steven Weintraub*
+- [x] **GTM 261** - Fundamentals of Algebraic Topology - *Steven Weintraub*
 
 ### 3.3 微分拓扑
 
-- [ ] **GTM 33** - Differential Topology - *Morris W. Hirsch* ⭐
-- [ ] **GTM 176** - An Introduction to Knot Theory - *W. B. Raymond Lickorish*
+- [x] **GTM 33** - Differential Topology - *Morris W. Hirsch* ⭐
+- [x] **GTM 176** - An Introduction to Knot Theory - *W. B. Raymond Lickorish*
 
 ### 3.4 纽结理论
 
-- [ ] **GTM 57** - Introduction to Knot Theory - *Richard H. Crowell, Ralph H. Fox*
+- [x] **GTM 57** - Introduction to Knot Theory - *Richard H. Crowell, Ralph H. Fox*
 
 ---
 
@@ -127,10 +127,10 @@
 
 ### 4.1 代数几何
 
-- [ ] **GTM 52** - Algebraic Geometry - *Robin Hartshorne* ⭐
-- [ ] **GTM 133** - Algebraic Geometry - *Joe Harris* 🔥
-- [ ] **GTM 197** - The Geometry of Schemes - *David Eisenbud, Joe Harris* 🔥
-- [ ] **GTM 76** - Algebraic Geometry: An Introduction to Birational Geometry - *Shigeru Iitaka*
+- [x] **GTM 52** - Algebraic Geometry - *Robin Hartshorne* ⭐
+- [x] **GTM 133** - Algebraic Geometry - *Joe Harris* 🔥
+- [x] **GTM 197** - The Geometry of Schemes - *David Eisenbud, Joe Harris* 🔥
+- [x] **GTM 76** - Algebraic Geometry: An Introduction to Birational Geometry - *Shigeru Iitaka*
 - [ ] **GTM 219** - The Geometry of Syzygies - *David Eisenbud*
 
 ### 4.2 微分几何
