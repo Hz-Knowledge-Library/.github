@@ -1,12 +1,12 @@
-# 📚 Knowledge Garden
+# 📚 Knowledge Library
 
 > 个人知识库 | Personal Knowledge Base
 
 ## 🌟 关于本组织 | About
 
-这是我的个人知识管理系统，用于存储、组织和分享学习笔记、思考和写作内容。这里不仅是知识的存储地，更是思想的培育园。
+这是我的个人知识管理系统，用于存储、组织和分享学习笔记、思考和写作内容。
 
-This is my personal knowledge management system for storing, organizing, and sharing learning notes, thoughts, and writings. It's not just a storage space, but a garden where ideas grow.
+This is my personal knowledge management system for storing, organizing, and sharing learning notes, thoughts, and writings. 
 
 ## 📖 仓库分类 | Repository Categories
 
@@ -51,7 +51,7 @@ This is my personal knowledge management system for storing, organizing, and sha
 
 - GitHub Issues - 在对应仓库提问
 - Email - [your-email@example.com]
-- Blog - [your-blog-url]
+- Blog - [[your-blog-url](https://brans-t.github.io/)]
 
 ## 📜 许可证 | License
 
