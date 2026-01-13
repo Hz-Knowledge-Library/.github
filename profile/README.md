@@ -50,8 +50,8 @@ This is my personal knowledge management system for storing, organizing, and sha
 如果你对某个主题感兴趣或想要交流学习心得，欢迎通过以下方式联系：
 
 - GitHub Issues - 在对应仓库提问
-- Email - [your-email@example.com]
-- Blog - [[your-blog-url](https://brans-t.github.io/)]
+- Email - [zhzgame11122@163.com]
+- Blog - [[Brans-t](https://brans-t.github.io/)]
 
 ## 📜 许可证 | License
 
